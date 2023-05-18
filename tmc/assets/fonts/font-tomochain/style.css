@@ -1,0 +1,191 @@
+@font-face {
+  font-family: 'font-tomochain';
+  src:  url('fonts/font-tomochain.eot?huxvl1');
+  src:  url('fonts/font-tomochain.eot?huxvl1#iefix') format('embedded-opentype'),
+    url('fonts/font-tomochain.ttf?huxvl1') format('truetype'),
+    url('fonts/font-tomochain.woff?huxvl1') format('woff'),
+    url('fonts/font-tomochain.svg?huxvl1#font-tomochain') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+.ftomo {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'font-tomochain' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.tomo-logo-coinmarketcap-black:before {
+  content: "\e92a";
+}
+.tomo-logo-favi-coinmarketcap-black:before {
+  content: "\e92b";
+}
+.tomo-logo-favi-coinmarketcap-white:before {
+  content: "\e92c";
+  color: #fff;
+}
+.tomo-logo-tomochain-black .path1:before {
+  content: "\e92d";
+  color: rgb(36, 40, 40);
+}
+.tomo-logo-tomochain-black .path2:before {
+  content: "\e92e";
+  margin-left: -0.6669921875em;
+  color: rgb(36, 40, 40);
+}
+.tomo-logo-tomochain-black .path3:before {
+  content: "\e92f";
+  margin-left: -0.6669921875em;
+  color: rgb(0, 232, 181);
+}
+.tomo-logo-tomochain-white .path1:before {
+  content: "\e930";
+  color: rgb(255, 255, 255);
+}
+.tomo-logo-tomochain-white .path2:before {
+  content: "\e931";
+  margin-left: -0.6669921875em;
+  color: rgb(255, 255, 255);
+}
+.tomo-logo-tomochain-white .path3:before {
+  content: "\e932";
+  margin-left: -0.6669921875em;
+  color: rgb(0, 232, 181);
+}
+.tomo-long-arrow-right:before {
+  content: "\e900";
+}
+.tomo-logo-tomochain:before {
+  content: "\e901";
+}
+.tomo-icon_search:before {
+  content: "\e902";
+}
+.tomo-android:before {
+  content: "\e903";
+}
+.tomo-apple:before {
+  content: "\e904";
+}
+.tomo-angle-down:before {
+  content: "\e905";
+}
+.tomo-arrow-right:before {
+  content: "\e906";
+}
+.tomo-times:before {
+  content: "\e907";
+}
+.tomo-chevron-left:before {
+  content: "\e908";
+}
+.tomo-chevron-right:before {
+  content: "\e909";
+}
+.tomo-money:before {
+  content: "\e90a";
+}
+.tomo-delivery-truck:before {
+  content: "\e90b";
+}
+.tomo-seo:before {
+  content: "\e90c";
+}
+.tomo-like:before {
+  content: "\e90d";
+}
+.tomo-think:before {
+  content: "\e90e";
+}
+.tomo-shield:before {
+  content: "\e90f";
+}
+.tomo-mortarboard:before {
+  content: "\e910";
+}
+.tomo-shop-1:before {
+  content: "\e911";
+}
+.tomo-stethoscope:before {
+  content: "\e912";
+}
+.tomo-event:before {
+  content: "\e913";
+}
+.tomo-joystick:before {
+  content: "\e914";
+}
+.tomo-suitcase:before {
+  content: "\e915";
+}
+.tomo-data:before {
+  content: "\e916";
+}
+.tomo-money-1:before {
+  content: "\e917";
+}
+.tomo-money-2:before {
+  content: "\e918";
+}
+.tomo-plane:before {
+  content: "\e919";
+}
+.tomo-save:before {
+  content: "\e91a";
+}
+.tomo-play-button:before {
+  content: "\e91b";
+}
+.tomo-copy:before {
+  content: "\e91c";
+}
+.tomo-settings:before {
+  content: "\e91d";
+}
+.tomo-building:before {
+  content: "\e91e";
+}
+.tomo-discord:before {
+  content: "\e91f";
+}
+.tomo-check:before {
+  content: "\e920";
+}
+.tomo-docs:before {
+  content: "\e921";
+}
+.tomo-eye:before {
+  content: "\e922";
+}
+.tomo-flag:before {
+  content: "\e923";
+}
+.tomo-rocket:before {
+  content: "\e924";
+}
+.tomo-trophy:before {
+  content: "\e925";
+}
+.tomo-user:before {
+  content: "\e926";
+}
+.tomo-avatar:before {
+  content: "\e927";
+}
+.tomo-sphere:before {
+  content: "\e928";
+}
+.tomo-open-link:before {
+  content: "\e929";
+}
